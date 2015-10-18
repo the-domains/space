@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[space]]></title>
         <description><![CDATA[space]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 19:00:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 19:10:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28030ece-93d6-4140-a81d-394c9315f747.JPG">]]></description>
+            <link>https://thegrid.ai/space/dd47876f-222d-4632-9dbd-d42d70313900/index.html</link>
+            <guid isPermaLink="false">dd47876f-222d-4632-9dbd-d42d70313900</guid>
+            <pubDate>Sun, 18 Oct 2015 19:10:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life is but a dream]]></title>
             <description><![CDATA[<article><h1>Life is but a dream</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fac8c7-c927-4951-aaf7-559a90884da5.JPG"></article>]]></description>
-            <link>undefinedlife-is-but-a-dream/index.html</link>
+            <link>https://thegrid.ai/space/life-is-but-a-dream/index.html</link>
             <guid isPermaLink="false">0ea3308f-5124-4242-9f7a-959865984bc3</guid>
             <pubDate>Sun, 18 Oct 2015 19:00:24 GMT</pubDate>
         </item>
