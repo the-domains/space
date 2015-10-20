@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 12:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 18:36:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[King Midas Sound]]></title>
+            <description><![CDATA[<article><h1>King Midas Sound</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a18d5f8-ab7a-4cea-9e98-f562e59aa1fc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/space/king-midas-sound/index.html</link>
+            <guid isPermaLink="false">bf2287ca-f01f-482b-9db9-18fee3241404</guid>
+            <pubDate>Tue, 20 Oct 2015 18:35:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EBONY]]></title>
             <description><![CDATA[<article><h1>EBONY</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/567e3a7e-cbae-4378-8db9-884a355cec3f.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/space/25e2f04b-aee5-4ddd-a6db-7b8afbea1477/index.html</link>
             <guid isPermaLink="false">25e2f04b-aee5-4ddd-a6db-7b8afbea1477</guid>
             <pubDate>Mon, 19 Oct 2015 08:59:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[hype williams - young blood]]></title>
-            <description><![CDATA[<article><h1>hype williams - young blood</h1><p>Uploaded by pollyjacobsen on 2015-10-17.</p><img src="https://i.ytimg.com/vi/VjggoNBWhQo/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=VjggoNBWhQo</link>
-            <guid isPermaLink="false">33fbf49e-e673-4e76-934b-d3da35c5d89f</guid>
-            <pubDate>Sun, 18 Oct 2015 19:25:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
