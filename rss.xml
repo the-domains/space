@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 12:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 12:55:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EBONY]]></title>
+            <description><![CDATA[<article><h1>EBONY</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/567e3a7e-cbae-4378-8db9-884a355cec3f.JPG"></article>]]></description>
+            <link>https://thegrid.ai/space/ebony/index.html</link>
+            <guid isPermaLink="false">09fad818-0378-4732-b6cc-7618c187f596</guid>
+            <pubDate>Tue, 20 Oct 2015 12:54:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bliss]]></title>
             <description><![CDATA[<article><h1>Bliss</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a394c454-bcbc-4e93-8c7e-57042b1dfd5e.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=VjggoNBWhQo</link>
             <guid isPermaLink="false">33fbf49e-e673-4e76-934b-d3da35c5d89f</guid>
             <pubDate>Sun, 18 Oct 2015 19:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life is but a dream]]></title>
-            <description><![CDATA[<article><h1>Life is but a dream</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fac8c7-c927-4951-aaf7-559a90884da5.JPG"></article>]]></description>
-            <link>https://thegrid.ai/space/life-is-but-a-dream/index.html</link>
-            <guid isPermaLink="false">0ea3308f-5124-4242-9f7a-959865984bc3</guid>
-            <pubDate>Sun, 18 Oct 2015 19:48:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
