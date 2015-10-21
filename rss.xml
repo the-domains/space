@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 10:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 22:09:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e321a758-ae9f-4600-a3bb-ca8e1c92a07b.gif">]]></description>
+            <link>https://thegrid.ai/space/f767e1dd-0b19-4924-aed3-128bdd1ad923/index.html</link>
+            <guid isPermaLink="false">f767e1dd-0b19-4924-aed3-128bdd1ad923</guid>
+            <pubDate>Wed, 21 Oct 2015 22:08:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c57bd543-2eaa-4544-a8e2-6f314549c533.JPG">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.publico.pt/sociedade/noticia/advogado-de-socrates-levanta-cd-com-copia-do-processo-1711655</link>
             <guid isPermaLink="false">b730446b-fdf4-4ea4-91d6-8a9f5ca53fec</guid>
             <pubDate>Tue, 20 Oct 2015 08:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aquaglide 5]]></title>
-            <description><![CDATA[<article><h1>Aquaglide 5</h1><p>"Aquaglide" - a small passenger WIG-craft of Type A under the IMO classification designed for transportation of five people, including the driver, with speed of up to 170 km/h on distance up to 450 km.</p><img src="https://i.ytimg.com/vi/-wmyrlZttHU/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=-wmyrlZttHU</link>
-            <guid isPermaLink="false">04b96e31-5c1d-45e9-8615-74bb2c887551</guid>
-            <pubDate>Mon, 19 Oct 2015 10:21:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
