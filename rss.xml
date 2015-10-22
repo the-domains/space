@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 22:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 15:59:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Survival kit]]></title>
+            <description><![CDATA[<article><h1>Survival kit</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/005847c9-9351-408e-99ae-d281a8f22943.JPG"></article>]]></description>
+            <link>https://thegrid.ai/space/survival-kit/index.html</link>
+            <guid isPermaLink="false">2ba91e13-fd63-4d91-a8be-d59b42144689</guid>
+            <pubDate>Thu, 22 Oct 2015 15:58:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e321a758-ae9f-4600-a3bb-ca8e1c92a07b.gif">]]></description>
@@ -68,13 +75,6 @@
             <link>https://en.wikipedia.org/wiki/Alpha_Centauri</link>
             <guid isPermaLink="false">1e685267-84e1-492b-afd2-4418a063a43f</guid>
             <pubDate>Tue, 20 Oct 2015 10:31:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Advogado de Sócrates levanta CD com cópia do processo]]></title>
-            <description><![CDATA[<article><h1>Advogado de Sócrates levanta CD com cópia do processo</h1><p>Um dos advogados de José Sócrates, Pedro Delille, levantou ao início da tarde desta segunda-feira no Departamento Central de Investigação e Acção Penal (DCIAP) uma cópia do processo em que o ex-primeiro-ministro é suspeito de branqueamento de capitais e corrupção.</p><img src="http://imagens7.publico.pt/imagens.aspx/992847?tp=UH&db=IMAGENS"></article>]]></description>
-            <link>http://www.publico.pt/sociedade/noticia/advogado-de-socrates-levanta-cd-com-copia-do-processo-1711655</link>
-            <guid isPermaLink="false">b730446b-fdf4-4ea4-91d6-8a9f5ca53fec</guid>
-            <pubDate>Tue, 20 Oct 2015 08:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
