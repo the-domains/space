@@ -1,6 +1,6 @@
 name: space
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.39641
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#512642'
-    - '#766498'
-    - '#aa344c'
-    - '#b07342'
-    - '#e0889e'
-  brandStrength: 1
+    - '#002d37'
+    - '#a2af77'
+    - '#71966a'
+    - '#d6c07c'
+    - '#005451'
+  brandStrength: 0.8125
   lightness: 0.75
   saturation: 1
   rhythmicContrast: 0.75
