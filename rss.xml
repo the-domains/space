@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 17:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 13:28:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ekranoplan]]></title>
+            <description><![CDATA[<article><h1>Ekranoplan</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4814b8fd-9c50-403d-850f-cc02ad2de2f0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/space/ekranoplan/index.html</link>
+            <guid isPermaLink="false">186834d9-6911-4c64-bfc8-263ba3bfcc09</guid>
+            <pubDate>Sun, 25 Oct 2015 13:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7c5843b-aa21-465e-9bee-3c2c5af923f1.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/space/bliss/index.html</link>
             <guid isPermaLink="false">fc8b40be-d472-47f4-b198-6fe973b6bf4c</guid>
             <pubDate>Tue, 20 Oct 2015 12:45:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the rise and rise of lily-rose depp | read | i-D]]></title>
-            <description><![CDATA[<article><h1>the rise and rise of lily-rose depp | read | i-D</h1><p>We share an exclusive and intimate moment with the social media star of the year backstage at Chanel.</p><img src="https://i-d-images.vice.com/images/articles/meta/2015/10/19/the-rise-and-rise-of-lily-rose-depp-1445252535.jpg?crop=1xw:0.4358974358974359xh;0xw,0xh&resize=2000:*&output-format=image/jpeg&output-quality=75"></article>]]></description>
-            <link>http://i-d.vice.com/en_gb/article/the-rise-and-rise-of-lily-rose-depp</link>
-            <guid isPermaLink="false">cf6a6fab-8f39-4346-8a7d-d06471ffc8a2</guid>
-            <pubDate>Tue, 20 Oct 2015 10:48:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
