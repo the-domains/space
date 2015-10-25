@@ -1,6 +1,6 @@
 name: space
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.39641
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#71966a'
     - '#d6c07c'
     - '#005451'
-  brandStrength: 0.8125
+  brandStrength: 1
   lightness: 0.75
   saturation: 1
   rhythmicContrast: 0.75
