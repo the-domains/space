@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 13:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2015 16:12:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hype Williams : Black is Beautiful (EBONY)]]></title>
+            <description><![CDATA[<article><h1>Hype Williams : Black is Beautiful (EBONY)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff9d1b4-7dca-442f-91ec-b106b2d53abc.gif"></article>]]></description>
+            <link>https://thegrid.ai/space/hype-williams-black-is-beautiful-ebony/index.html</link>
+            <guid isPermaLink="false">0547fda7-643b-4810-b319-d619ef5eae97</guid>
+            <pubDate>Tue, 27 Oct 2015 16:11:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ekranoplan]]></title>
             <description><![CDATA[<article><h1>Ekranoplan</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4814b8fd-9c50-403d-850f-cc02ad2de2f0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/space/ebony/index.html</link>
             <guid isPermaLink="false">09fad818-0378-4732-b6cc-7618c187f596</guid>
             <pubDate>Tue, 20 Oct 2015 12:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bliss]]></title>
-            <description><![CDATA[<article><h1>Bliss</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a394c454-bcbc-4e93-8c7e-57042b1dfd5e.JPG"></article>]]></description>
-            <link>https://thegrid.ai/space/bliss/index.html</link>
-            <guid isPermaLink="false">fc8b40be-d472-47f4-b198-6fe973b6bf4c</guid>
-            <pubDate>Tue, 20 Oct 2015 12:45:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
