@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 12:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 14:22:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blonde in something else]]></title>
+            <description><![CDATA[<article><h1>Blonde in something else</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e9fd1c-67ba-4b30-9f99-ec51c69f83d8.JPG"></article>]]></description>
+            <link>https://thegrid.ai/space/blonde-in-something-else/index.html</link>
+            <guid isPermaLink="false">3cd6051c-d45c-42f7-81df-1a76f4d33f70</guid>
+            <pubDate>Thu, 26 Nov 2015 14:22:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Felt morning]]></title>
             <description><![CDATA[<article><h1>Felt morning</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbb6748-d70b-4683-a64a-1f83e8df6607.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/space/ed3bd437-7528-485c-9116-14eeb1bd8b5a/index.html</link>
             <guid isPermaLink="false">ed3bd437-7528-485c-9116-14eeb1bd8b5a</guid>
             <pubDate>Tue, 20 Oct 2015 21:12:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Midas Sound]]></title>
-            <description><![CDATA[<article><h1>King Midas Sound</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a18d5f8-ab7a-4cea-9e98-f562e59aa1fc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/space/king-midas-sound/index.html</link>
-            <guid isPermaLink="false">bf2287ca-f01f-482b-9db9-18fee3241404</guid>
-            <pubDate>Tue, 20 Oct 2015 18:35:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
