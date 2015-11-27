@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 14:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2015 16:21:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Buddha Machines]]></title>
+            <description><![CDATA[<article><h1>Buddha Machines</h1><p>The art of waiting for nothing at all while listening to time-bending loops.</p></article>]]></description>
+            <link>https://thegrid.ai/space/buddha-machines/index.html</link>
+            <guid isPermaLink="false">2355c2b6-6e7a-4b4c-b63e-155e009241b4</guid>
+            <pubDate>Fri, 27 Nov 2015 16:21:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blonde in something else]]></title>
             <description><![CDATA[<article><h1>Blonde in something else</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e9fd1c-67ba-4b30-9f99-ec51c69f83d8.JPG"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/space/91c50ed4-2765-42df-91ff-ec9dc01c4522/index.html</link>
             <guid isPermaLink="false">91c50ed4-2765-42df-91ff-ec9dc01c4522</guid>
             <pubDate>Wed, 21 Oct 2015 10:30:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5455d787-b0a2-44e0-86c0-a1cbf63a8e91.jpg">]]></description>
-            <link>https://thegrid.ai/space/ed3bd437-7528-485c-9116-14eeb1bd8b5a/index.html</link>
-            <guid isPermaLink="false">ed3bd437-7528-485c-9116-14eeb1bd8b5a</guid>
-            <pubDate>Tue, 20 Oct 2015 21:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
