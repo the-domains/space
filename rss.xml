@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 15:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 01:15:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[W]]></title>
+            <description><![CDATA[<article><h1>W</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/520d0d4d-d073-4e20-85f8-1294ddd0e598.png"></article>]]></description>
+            <link>https://thegrid.ai/space/w/index.html</link>
+            <guid isPermaLink="false">98f508ed-7597-44da-a6e2-2d509580d663</guid>
+            <pubDate>Fri, 11 Dec 2015 01:15:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Buddha Machines]]></title>
             <description><![CDATA[<article><h1>Buddha Machines</h1><p>
@@ -19,7 +26,7 @@ The art of waiting for nothing at all while listening to time-bending loops.
         </item>
         <item>
             <title><![CDATA[Blonde in something else]]></title>
-            <description><![CDATA[<article><h1>Blonde in something else</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e9fd1c-67ba-4b30-9f99-ec51c69f83d8.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Blonde in something else</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d239b816982446a9f2e9f8713d1c8417efbd0e21.jpg"></article>]]></description>
             <link>https://thegrid.ai/space/blonde-in-something-else/index.html</link>
             <guid isPermaLink="false">3cd6051c-d45c-42f7-81df-1a76f4d33f70</guid>
             <pubDate>Thu, 26 Nov 2015 14:22:03 GMT</pubDate>
@@ -40,7 +47,7 @@ The art of waiting for nothing at all while listening to time-bending loops.
         </item>
         <item>
             <title><![CDATA[Ekranoplan]]></title>
-            <description><![CDATA[<article><h1>Ekranoplan</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4814b8fd-9c50-403d-850f-cc02ad2de2f0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ekranoplan</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4ca40d8b52c9884887876a52137e0268ac7e24b.jpg"></article>]]></description>
             <link>https://thegrid.ai/space/ekranoplan/index.html</link>
             <guid isPermaLink="false">186834d9-6911-4c64-bfc8-263ba3bfcc09</guid>
             <pubDate>Sun, 25 Oct 2015 13:27:26 GMT</pubDate>
@@ -54,7 +61,7 @@ The art of waiting for nothing at all while listening to time-bending loops.
         </item>
         <item>
             <title><![CDATA[Survival kit (eleven bee)]]></title>
-            <description><![CDATA[<article><h1>Survival kit (eleven bee)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/005847c9-9351-408e-99ae-d281a8f22943.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Survival kit (eleven bee)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d02c8e1914fd62e939b1e6c5e76f153b5205ea5.jpg"></article>]]></description>
             <link>https://thegrid.ai/space/survival-kit/index.html</link>
             <guid isPermaLink="false">2ba91e13-fd63-4d91-a8be-d59b42144689</guid>
             <pubDate>Thu, 22 Oct 2015 16:03:35 GMT</pubDate>
@@ -72,13 +79,6 @@ The art of waiting for nothing at all while listening to time-bending loops.
             <link>https://thegrid.ai/space/25e2f04b-aee5-4ddd-a6db-7b8afbea1477/index.html</link>
             <guid isPermaLink="false">25e2f04b-aee5-4ddd-a6db-7b8afbea1477</guid>
             <pubDate>Wed, 21 Oct 2015 09:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90d8398b-a55c-4261-b730-c4d927a4ec81.JPG">]]></description>
-            <link>https://thegrid.ai/space/91c50ed4-2765-42df-91ff-ec9dc01c4522/index.html</link>
-            <guid isPermaLink="false">91c50ed4-2765-42df-91ff-ec9dc01c4522</guid>
-            <pubDate>Wed, 21 Oct 2015 10:30:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
