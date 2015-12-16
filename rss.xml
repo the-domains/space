@@ -4,8 +4,15 @@
         <description><![CDATA[space]]></description>
         <link>https://thegrid.ai/space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 08:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 11:08:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sony]]></title>
+            <description><![CDATA[<article><h1>Sony</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e976539c-3b9a-4e50-8707-3176c3b6c4f7.png"></article>]]></description>
+            <link>https://thegrid.ai/space/sony/index.html</link>
+            <guid isPermaLink="false">f690229d-4554-4a58-9bdb-79fae8f99e09</guid>
+            <pubDate>Wed, 16 Dec 2015 11:07:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello]]></title>
             <description><![CDATA[<article><h1>Hello</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f39b18c91da99d764257de17ac9483730b0fff43.png"></article>]]></description>
@@ -72,13 +79,6 @@ The art of waiting for nothing at all while listening to time-bending loops.
             <link>https://thegrid.ai/space/ekranoplan/index.html</link>
             <guid isPermaLink="false">186834d9-6911-4c64-bfc8-263ba3bfcc09</guid>
             <pubDate>Sun, 25 Oct 2015 13:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7c5843b-aa21-465e-9bee-3c2c5af923f1.jpg">]]></description>
-            <link>https://thegrid.ai/space/71929a03-d09d-4c3f-a2dc-d1f01a426ea0/index.html</link>
-            <guid isPermaLink="false">71929a03-d09d-4c3f-a2dc-d1f01a426ea0</guid>
-            <pubDate>Fri, 23 Oct 2015 17:42:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
